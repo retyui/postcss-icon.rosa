@@ -1,0 +1,12 @@
+{
+  "name": "postcss-icon.rosa",
+  "version": "1.0.0",
+  "main": "rosa-icons.js",
+  "repository": "https://github.com/retyui/postcss-icon.rosa",
+  "author": "retyui <vamnemne@gmail.com>",
+  "license": "MIT",
+  "files": [],
+  "peerDependencies": {
+    "postcss-icon": "7.x"
+  }
+}
