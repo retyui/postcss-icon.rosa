@@ -70,8 +70,8 @@ postcss(
 
 ### Font icons:
 
-- [postcss-icon.material-design](https://github.com/retyui/postcss-icon.material-design) (count icons : 932)
-- [postcss-icon.font-awesome-v4](https://github.com/retyui/postcss-icon.font-awesome-v4) (count icons : 786)
+- [postcss-icon.material-design](https://github.com/retyui/postcss-icon.material-design) (count icons : 932) [result demo](https://retyui.github.io/postcss-icon/material-design/)
+- [postcss-icon.font-awesome-v4](https://github.com/retyui/postcss-icon.font-awesome-v4) (count icons : 786) [result demo](https://retyui.github.io/postcss-icon/font-awesome-v4/)
 
 ### Css only icons:
 
